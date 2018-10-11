@@ -1,0 +1,135 @@
+Wed Oct 10 23:45:33 2018: build-wrapper, version 5.1 (win-x86-64)
+Wed Oct 10 23:45:33 2018: isWow64: 0
+Wed Oct 10 23:45:33 2018: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
+Wed Oct 10 23:45:33 2018: current directory: C:\Users\Lass\PolarTree\PolarTree
+Wed Oct 10 23:45:33 2018: command line received: <MsBuild.exe /t:Rebuild>
+Wed Oct 10 23:45:33 2018: initializing json file
+Wed Oct 10 23:45:33 2018: starting debug cycle
+Wed Oct 10 23:45:33 2018: process created with pid: 3944
+Wed Oct 10 23:45:33 2018: image path name: <C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\MsBuild.exe>
+Wed Oct 10 23:45:33 2018: command line: <MsBuild.exe /t:Rebuild>
+Wed Oct 10 23:45:33 2018: working directory: <C:\Users\Lass\PolarTree\PolarTree\>
+Wed Oct 10 23:45:33 2018: isWow64: 1
+Wed Oct 10 23:45:33 2018: skipping process C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\MsBuild.exe with pid: 3944
+Wed Oct 10 23:45:34 2018: process created with pid: 6032
+Wed Oct 10 23:45:34 2018: image path name: <C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Tracker.exe>
+Wed Oct 10 23:45:34 2018: command line: <"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Tracker.exe" @"C:\Users\Lass\AppData\Local\Temp\tmpf4271081c2e14f48b5a41b060392ebee.tmp" /c "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe"  @"C:\Users\Lass\AppData\Local\Temp\tmp0d5462554a5a480e9ff4e9ec4e64371b.rsp">
+Wed Oct 10 23:45:34 2018: working directory: <C:\Users\Lass\PolarTree\PolarTree\>
+Wed Oct 10 23:45:34 2018: isWow64: 1
+Wed Oct 10 23:45:34 2018: skipping process C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Tracker.exe with pid: 6032
+Wed Oct 10 23:45:35 2018: process created with pid: 11940
+Wed Oct 10 23:45:35 2018: image path name: <C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe>
+Wed Oct 10 23:45:35 2018: command line: <"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe" @C:\Users\Lass\AppData\Local\Temp\tmp0d5462554a5a480e9ff4e9ec4e64371b.rsp>
+Wed Oct 10 23:45:35 2018: working directory: <C:\Users\Lass\PolarTree\PolarTree\>
+Wed Oct 10 23:45:35 2018: isWow64: 1
+Wed Oct 10 23:45:35 2018: content of C:\Users\Lass\AppData\Local\Temp\tmp0d5462554a5a480e9ff4e9ec4e64371b.rsp: </c /ZI /JMC /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue PolarTree.cpp Source.cpp>
+Wed Oct 10 23:45:35 2018: Probing MSVC compiler: C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe
+Wed Oct 10 23:45:35 2018: exit code: 0 (0x0)
+Wed Oct 10 23:45:35 2018: stdout:
+?????????????: cl [ ????????... ] ???_?????... [ /link ????????_??????????... ]
+
+Wed Oct 10 23:45:35 2018: stderr:
+?????????????? ?????????? Microsoft (R) C/C++ ?????? 19.15.26730 ??? x86
+(C) ?????????? ?????????? (Microsoft Corporation).  ??? ????? ????????.
+
+
+Wed Oct 10 23:45:35 2018: env0: <=C:=C:\Users\Lass\PolarTree\PolarTree>
+Wed Oct 10 23:45:35 2018: env1: <=ExitCode=00000000>
+Wed Oct 10 23:45:35 2018: env2: <ALLUSERSPROFILE=C:\ProgramData>
+Wed Oct 10 23:45:35 2018: env3: <APPDATA=C:\Users\Lass\AppData\Roaming>
+Wed Oct 10 23:45:35 2018: env4: <build-wrapper-win-x86-64.exe=C:\Users\Lass\Downloads\build-wrapper-win-x86\build-wrapper-win-x86>
+Wed Oct 10 23:45:35 2018: env5: <CAExcludePath=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\atlmfc\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;>
+Wed Oct 10 23:45:35 2018: env6: <CommonProgramFiles=C:\Program Files (x86)\Common Files>
+Wed Oct 10 23:45:35 2018: env7: <CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files>
+Wed Oct 10 23:45:35 2018: env8: <CommonProgramW6432=C:\Program Files\Common Files>
+Wed Oct 10 23:45:35 2018: env9: <COMPUTERNAME=DESKTOP-58HNSPL>
+Wed Oct 10 23:45:35 2018: env10: <ComSpec=C:\Windows\system32\cmd.exe>
+Wed Oct 10 23:45:35 2018: env11: <DriverData=C:\Windows\System32\Drivers\DriverData>
+Wed Oct 10 23:45:35 2018: env12: <HOMEDRIVE=C:>
+Wed Oct 10 23:45:35 2018: env13: <HOMEPATH=\Users\Lass>
+Wed Oct 10 23:45:35 2018: env14: <INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt;;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\UnitTest\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;>
+Wed Oct 10 23:45:35 2018: env15: <LIB=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x86;;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\UnitTest\lib;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x86;;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Lib\um\x86>
+Wed Oct 10 23:45:35 2018: env16: <LIBPATH=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\lib\x86;>
+Wed Oct 10 23:45:35 2018: env17: <LOCALAPPDATA=C:\Users\Lass\AppData\Local>
+Wed Oct 10 23:45:35 2018: env18: <LOGONSERVER=\\DESKTOP-58HNSPL>
+Wed Oct 10 23:45:35 2018: env19: <MSBuildLoadMicrosoftTargetsReadOnly=true>
+Wed Oct 10 23:45:35 2018: env20: <NUMBER_OF_PROCESSORS=4>
+Wed Oct 10 23:45:35 2018: env21: <OneDrive=C:\Users\Lass\OneDrive>
+Wed Oct 10 23:45:35 2018: env22: <OS=Windows_NT>
+Wed Oct 10 23:45:35 2018: env23: <Path=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Windows\SysWow64;;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\PuTTY\;C:\Users\Lass\Downloads\sonar-scanner-msbuild-4.4.1.1530-net46\;C:\Users\Lass\Downloads\build-wrapper-win-x86\build-wrapper-win-x86\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\;C:\Users\Lass\AppData\Local\Microsoft\WindowsApps;>
+Wed Oct 10 23:45:35 2018: env24: <PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC>
+Wed Oct 10 23:45:35 2018: env25: <PROCESSOR_ARCHITECTURE=x86>
+Wed Oct 10 23:45:35 2018: env26: <PROCESSOR_ARCHITEW6432=AMD64>
+Wed Oct 10 23:45:35 2018: env27: <PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel>
+Wed Oct 10 23:45:35 2018: env28: <PROCESSOR_LEVEL=6>
+Wed Oct 10 23:45:35 2018: env29: <PROCESSOR_REVISION=3c03>
+Wed Oct 10 23:45:35 2018: env30: <ProgramData=C:\ProgramData>
+Wed Oct 10 23:45:35 2018: env31: <ProgramFiles=C:\Program Files (x86)>
+Wed Oct 10 23:45:35 2018: env32: <ProgramFiles(x86)=C:\Program Files (x86)>
+Wed Oct 10 23:45:35 2018: env33: <ProgramW6432=C:\Program Files>
+Wed Oct 10 23:45:35 2018: env34: <PROMPT=$P$G>
+Wed Oct 10 23:45:35 2018: env35: <PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\PowerShell\Modules\>
+Wed Oct 10 23:45:35 2018: env36: <PUBLIC=C:\Users\Public>
+Wed Oct 10 23:45:35 2018: env37: <SonarQube.Scanner.MSBuild.exe=C:\Users\Lass\Downloads\sonar-scanner-msbuild-4.4.1.1530-net46\sonar-scanner-3.2.0.1227>
+Wed Oct 10 23:45:35 2018: env38: <SystemDrive=C:>
+Wed Oct 10 23:45:35 2018: env39: <SystemRoot=C:\Windows>
+Wed Oct 10 23:45:35 2018: env40: <TEMP=C:\Users\Lass\AppData\Local\Temp>
+Wed Oct 10 23:45:35 2018: env41: <TMP=C:\Users\Lass\AppData\Local\Temp>
+Wed Oct 10 23:45:35 2018: env42: <TRACKER_ENABLED=1>
+Wed Oct 10 23:45:35 2018: env43: <TRACKER_INTERMEDIATE=C:\Users\Lass\PolarTree\PolarTree\Debug\PolarTree.tlog>
+Wed Oct 10 23:45:35 2018: env44: <TRACKER_OUTOFPROC=1>
+Wed Oct 10 23:45:35 2018: env45: <TRACKER_RESPONSEFILE=C:\Users\Lass\AppData\Local\Temp\tmpf4271081c2e14f48b5a41b060392ebee.tmp>
+Wed Oct 10 23:45:35 2018: env46: <TRACKER_ROOTFILES=>
+Wed Oct 10 23:45:35 2018: env47: <TRACKER_TOOL=>
+Wed Oct 10 23:45:35 2018: env48: <TRACKER_TOOLCHAIN=>
+Wed Oct 10 23:45:35 2018: env49: <USERDOMAIN=DESKTOP-58HNSPL>
+Wed Oct 10 23:45:35 2018: env50: <USERDOMAIN_ROAMINGPROFILE=DESKTOP-58HNSPL>
+Wed Oct 10 23:45:35 2018: env51: <USERNAME=Lass>
+Wed Oct 10 23:45:35 2018: env52: <USERPROFILE=C:\Users\Lass>
+Wed Oct 10 23:45:35 2018: env53: <VSTEL_ProjectID={F2196BCD-063F-4785-9EE7-978EDEFCA595}>
+Wed Oct 10 23:45:35 2018: env54: <windir=C:\Windows>
+Wed Oct 10 23:45:35 2018: env55: <_NO_DEBUG_HEAP=1>
+Wed Oct 10 23:45:36 2018: process created with pid: 8200
+Wed Oct 10 23:45:36 2018: image path name: <C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\VCTIP.EXE>
+Wed Oct 10 23:45:36 2018: command line: <"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\VCTIP.EXE">
+Wed Oct 10 23:45:36 2018: working directory: <C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\>
+Wed Oct 10 23:45:36 2018: isWow64: 1
+Wed Oct 10 23:45:36 2018: skipping process C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\VCTIP.EXE with pid: 8200
+Wed Oct 10 23:45:37 2018: process with pid 11940 exit with code: 0 (0x0)
+Wed Oct 10 23:45:37 2018: process with pid 6032 exit with code: 0 (0x0)
+Wed Oct 10 23:45:37 2018: process created with pid: 9260
+Wed Oct 10 23:45:37 2018: image path name: <C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Tracker.exe>
+Wed Oct 10 23:45:37 2018: command line: <"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Tracker.exe" /a @"C:\Users\Lass\AppData\Local\Temp\tmp888b3e2909bd48cc8668b3e860b75a3d.tmp" /c "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe"  /ERRORREPORT:QUEUE @"C:\Users\Lass\AppData\Local\Temp\tmp6138665ca8d64cb4823415a6293e4267.rsp">
+Wed Oct 10 23:45:37 2018: working directory: <C:\Users\Lass\PolarTree\PolarTree\>
+Wed Oct 10 23:45:37 2018: isWow64: 1
+Wed Oct 10 23:45:37 2018: skipping process C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Tracker.exe with pid: 9260
+Wed Oct 10 23:45:37 2018: process created with pid: 8536
+Wed Oct 10 23:45:37 2018: image path name: <C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe>
+Wed Oct 10 23:45:37 2018: command line: <"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe" /ERRORREPORT:QUEUE @C:\Users\Lass\AppData\Local\Temp\tmp6138665ca8d64cb4823415a6293e4267.rsp>
+Wed Oct 10 23:45:37 2018: working directory: <C:\Users\Lass\PolarTree\PolarTree\>
+Wed Oct 10 23:45:37 2018: isWow64: 1
+Wed Oct 10 23:45:37 2018: skipping process C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe with pid: 8536
+Wed Oct 10 23:45:37 2018: process created with pid: 4392
+Wed Oct 10 23:45:37 2018: image path name: <C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x86\rc.exe>
+Wed Oct 10 23:45:37 2018: command line: <rc /nologo /x /fo "C:\Users\Lass\AppData\Local\Temp\lnk{7D621899-D94F-4509-9E74-FCF042A8E049}.tmp" "C:\Users\Lass\AppData\Local\Temp\lnk{43AE2761-DFF8-4128-8618-A7305DD5A933}.tmp">
+Wed Oct 10 23:45:37 2018: working directory: <C:\Users\Lass\PolarTree\PolarTree\>
+Wed Oct 10 23:45:37 2018: isWow64: 1
+Wed Oct 10 23:45:37 2018: skipping process C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x86\rc.exe with pid: 4392
+Wed Oct 10 23:45:37 2018: process with pid 4392 exit with code: 0 (0x0)
+Wed Oct 10 23:45:37 2018: process created with pid: 3240
+Wed Oct 10 23:45:37 2018: image path name: <C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\cvtres.exe>
+Wed Oct 10 23:45:37 2018: command line: <cvtres /machine:x86 /nologo /out:"C:\Users\Lass\AppData\Local\Temp\lnk{B4292A87-9275-4574-9089-4725707E6772}.tmp" /readonly "C:\Users\Lass\AppData\Local\Temp\lnk{7D621899-D94F-4509-9E74-FCF042A8E049}.tmp">
+Wed Oct 10 23:45:37 2018: working directory: <C:\Users\Lass\PolarTree\PolarTree\>
+Wed Oct 10 23:45:37 2018: isWow64: 1
+Wed Oct 10 23:45:37 2018: skipping process C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\cvtres.exe with pid: 3240
+Wed Oct 10 23:45:37 2018: process with pid 3240 exit with code: 0 (0x0)
+Wed Oct 10 23:45:37 2018: process created with pid: 2424
+Wed Oct 10 23:45:37 2018: image path name: <C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\mspdbsrv.exe>
+Wed Oct 10 23:45:37 2018: command line: <mspdbsrv.exe -start -spawn>
+Wed Oct 10 23:45:37 2018: working directory: <C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\>
+Wed Oct 10 23:45:37 2018: isWow64: 1
+Wed Oct 10 23:45:37 2018: skipping process C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\mspdbsrv.exe with pid: 2424
+Wed Oct 10 23:45:38 2018: process with pid 8536 exit with code: 0 (0x0)
+Wed Oct 10 23:45:38 2018: process with pid 9260 exit with code: 0 (0x0)
+Wed Oct 10 23:45:38 2018: process with pid 3944 exit with code: 0 (0x0)
+Wed Oct 10 23:45:38 2018: finalizing json file
